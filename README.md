@@ -2,7 +2,7 @@
 
 This is a Color-Identifier based on tensorflow and keras.
 
-- Input color images are to be placed in input folder
+- Input images are to be placed in input folder
 - Images are to be of 200x200 resolution
 
 
